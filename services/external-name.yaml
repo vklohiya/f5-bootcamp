@@ -4,6 +4,5 @@ metadata:
   name: example-prod
 spec:
   type: ExternalName
-spec:
   externalName: example.com
 
